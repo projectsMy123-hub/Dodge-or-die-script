@@ -1,5 +1,8 @@
 # Ball-Reaction
-# Ball Reaction
+
+#Quick Load
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/projectsMy123-hub/Ball-Reaction/main/script"))()
 
 Predictive movement and hazard-planning system for Roblox dodge or die game.
 
